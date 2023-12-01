@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h1>To jest moja druga strona </h1>
+        <p>
+            To jest przyklad nieuporzadkowanej listy:
+        </p>
+        <ul>
+            <li>Sydney</li>
+            <li>New York</li>
+            <li>Warsaw</li>
+        </ul>
+    </body>
+</html>
