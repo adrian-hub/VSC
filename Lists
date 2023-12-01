@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+        <meta charset="UTF-8">
+        <title><center>My first web page</center></title>
+    </head>
+    <body><center>
+        <h5>This is my first web page</h5>
+        <h5>Cities in ordered list</h5>
+        <o1>
+            <li>Austria</li>
+            <li>France</li>
+            <li>Germany</li>
+            <li>Poland</li>
+            <li>Portugal</li>
+            <li>Switzerland</li>
+        </o1>
+
+        <h5>Cities in unordered list</h5>
+        <u1>
+            <li>Poland</li>
+            <li>Portugal</li>
+            <li>France</li>
+            <li>Switzerland</li>
+            <li>Germany</li>
+            <li>Austria</li>
+        </u1>
+        <p>I hope it is clear enough</p>
+    </body></center>
+</HTML>
